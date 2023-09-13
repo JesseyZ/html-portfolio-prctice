@@ -1,2 +1,2 @@
-# html-portfolio-prctice
+# html-portfolio-practice
 Practice cases from Udemy
